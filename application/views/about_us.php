@@ -7,7 +7,7 @@
             <!-- Start of Page Header -->
             <div class="page-header">
                 <div class="container">
-                    <h1 class="page-title mb-0">About Us ram</h1>
+                    <h1 class="page-title mb-0">About Us ramchandra</h1>
                 </div>
             </div>
             <!-- End of Page Header -->
